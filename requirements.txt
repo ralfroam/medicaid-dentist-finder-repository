@@ -1,0 +1,5 @@
+Flask
+selenium
+geopy
+webdriver-manager
+gunicorn
